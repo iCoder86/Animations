@@ -1,6 +1,6 @@
 # MenuAnimation
 
-<a href="https://imgflip.com/gif/1wuhqw"><img src="https://i.imgflip.com/1wuhqw.gif" title="made at imgflip.com"/></a>
+<img src="https://github.com/iCoder86/MenuAnimation/blob/master/Animation/Animation/MenuAnimation.gif" title="made at imgflip.com"/>
 
     @IBAction func toggleMenuButton(_ sender:UIButton?) {
         if btnMenu.tag == 0 {
